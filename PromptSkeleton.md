@@ -2,8 +2,8 @@ Important points in an AI Prompt  <br>
 > >            Thx to Jeff Su - https://www.youtube.com/watch?v=jC4v5AS4RIM&t=40s <br>
  <br>
 Task - Always start with an action verb <br>
-      . Generate, Give, Write, etc...   <br>
-      . Articulate the end goal   <br>
+>      . Generate, Give, Write, etc...   <br>
+>      . Articulate the end goal   <br>
 Context - Limit the possible answers (Don't give it an infinite number of responses) <br>  
       . Background   <br>
       . Success   <br>
