@@ -4,6 +4,7 @@ Important points in an AI Prompt
 Task - Always start with an action verb 
       . Generate, Give, Write, etc...
       . Articulate the end goal   
+      . Give a list of any exclusions
 Context - Limit the possible answers (Don't give it an infinite number of responses) 
       . What is the user's "Background"?
       . What does "Success" look like?
