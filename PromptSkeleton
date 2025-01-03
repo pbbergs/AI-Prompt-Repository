@@ -9,9 +9,9 @@ Context - Limit the possible answers (Don't give it an infinite number of respon
       . What is the user's "Background"?
       . What does "Success" look like?
       . What "Environment" are they in?
-                . I am a 7 handicap golfer <Background>
-                . Looking to improve my short game over the summer <Success>
-                . I only have time to go to the driving range twice a week <Environment>
+            . I am a 7 handicap golfer <Background>
+            . Looking to improve my short game over the summer <Success>
+            . I only have time to go to the driving range twice a week <Environment>
 Example(s) -  Follow the details below to help you formulate an answer
       . Including example(s) drastically improves the output of what was expected
 Persona - Who do you want AI to act like?   
