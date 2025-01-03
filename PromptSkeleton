@@ -27,5 +27,13 @@ Tone - How the reply should be written
             . Give me a list of 5 tone keywords that I could include to prevent me from sounding arogent  
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
->>>>> Note: When making follow up change requests, ask AI to bold changes to be able to find the updates   <<<<<
+>>>>> Note 1: When making follow up change requests, ask AI to bold changes to be able to find the updates <<<<<
+>>>>> Note 2: If you are unclear on how the answer was found, "Explain your thoughts"                      <<<<<
+>>>>>                                                                                                      <<<<<
+>>>>>         Task    - Mandatory                                                                          <<<<<
+>>>>>         Context - Important                                                                          <<<<<
+>>>>>         Example - Important                                                                          <<<<<
+>>>>>         Persona - Nice to include                                                                    <<<<<
+>>>>>         Format  - Nice to include                                                                    <<<<<
+>>>>>         Tone    - Nice to include                                                                    <<<<<    
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
