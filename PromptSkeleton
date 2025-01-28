@@ -22,6 +22,7 @@ Format - Visualize the exact format you would like to see the end result have
       . Output in Outlook format   
       . Output in PowerShell format  
       . Output in bullet points (numbered) format   
+      . Output in tree format
 Tone - How the reply should be written  
       . Use a formal tone, show enthusiasm, sound optimistic   
             . Please give me a complete list of all "Tone" words that I could use in my prompt   
