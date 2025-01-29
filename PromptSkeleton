@@ -12,6 +12,7 @@ Context - Limit the possible answers (Don't give it the ability for an infinite 
             . I am a 7 handicap golfer <Background>
             . Looking to improve my short game over the summer <Success>
             . I only have time to go to the driving range twice a week <Environment>
+            . What drills can I do to help me become a more accurate chipper around the green <outcome>
 Example(s) -  Follow the details below to help you formulate an answer
       . Including example(s) drastically improves the output of what was expected
 Persona - Who do you want AI to act like?   
