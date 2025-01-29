@@ -5,7 +5,7 @@ Task - Always start with an action verb
       . Generate, Give, Write, etc...
       . Articulate the end goal   
       . Give a list of any exclusions
-Context - Limit the possible answers (Don't give it an infinite number of responses) 
+Context - Limit the possible answers (Don't give it the ability for an infinite number of responses). Force it to focus on what you specifically want/need.
       . What is the user's "Background"?
       . What does "Success" look like?
       . What "Environment" are they in?
@@ -16,7 +16,7 @@ Example(s) -  Follow the details below to help you formulate an answer
       . Including example(s) drastically improves the output of what was expected
 Persona - Who do you want AI to act like?   
       . Industry Expert, Written like a 7th grader, Sound like Captain Kirk talking to Spock, etc...   
-Format - Visualize the exact format you would like to see the end result have   
+Format - Visualize the exact format you would like to see the end result have   (Giving an example from output you have created or a previous response helps)
       . Output in table format with column headers: Product, Cost and Net  (This should be able to be copied to Excel)         
       . Output in h2 format   
       . Output in Outlook format   
@@ -30,6 +30,7 @@ Tone - How the reply should be written
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 >>>>> Note 1: When making follow up change requests, ask AI to bold changes to be able to find the updates <<<<<
+>>>>>                                                                                                      <<<<<
 >>>>> Note 2: If you are unclear on how the answer was found, "Explain your thoughts"                      <<<<<
 >>>>>                                                                                                      <<<<<
 >>>>>         Task    - Mandatory                                                                          <<<<<
@@ -38,4 +39,6 @@ Tone - How the reply should be written
 >>>>>         Persona - Nice to include                                                                    <<<<<
 >>>>>         Format  - Nice to include                                                                    <<<<<
 >>>>>         Tone    - Nice to include                                                                    <<<<<    
+>>>>>                                                                                                      <<<<<
+>>>>> Note 3: If you don't want to type a lot of text, you can use a screen grab and upload the file       <<<<<
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
